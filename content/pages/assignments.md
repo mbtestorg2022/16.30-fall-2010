@@ -4,20 +4,100 @@ title: Assignments
 uid: 3670e222-83f7-7f79-eec8-5d9d183be7db
 ---
 
-| ASSIGNMENTS |
-| --- |
-| Homework 1 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn01)) |
-| Homework 2 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn02)) |
-| Homework 3 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn03)) |
-| Homework 4 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn04)) |
-| Homework 5 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn05)) |
-| Homework 6 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn06)) |
-| Homework 7 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn07)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
 
-| LABS | RESOURCES |
-| --- | --- |
-| Lab 1 ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab01)) | &nbsp; |
-| Lab 2 ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab02)) |  {{< br >}}{{< br >}} Competition ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab02_comp)) {{< br >}}{{< br >}} Appendix ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab02_app)) {{< br >}}{{< br >}}  
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 1 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 2 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 3 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn03))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 4 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 5 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 6 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 7 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn07))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+RESOURCES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1 ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab01))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2 ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab02))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Competition ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab02_comp))
+
+Appendix ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab02_app))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 16.31 Project
 -------------

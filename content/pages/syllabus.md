@@ -27,15 +27,84 @@ Topics Covered
 *   Linearization and analysis of nonlinear systems
 *   Model uncertainty and robustness
 
-| TOPICS | # OF LECTURES |
-| --- | --- |
-| Introduction and basics | 2 |
-| Review of classical synthesis techniques | 2 |
-| State space—linear systems | 5 |
-| Full state feedback | 5 |
-| State estimation | 2 |
-| Output feedback | 5 |
-| Nonlinear analysis, model uncertainty and robustness | 4 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+# OF LECTURES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Introduction and basics
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Review of classical synthesis techniques
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+State space—linear systems
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Full state feedback
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+State estimation
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Output feedback
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nonlinear analysis, model uncertainty and robustness
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Textbooks
 ---------
@@ -67,19 +136,117 @@ Grading
 
 ### 16.30 (Undergraduate)
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 25% |
-| Midterms | 15% each |
-| Labs | 20% |
-| Final | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterms
+{{< tdclose >}}
+{{< tdopen >}}
+15% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Labs
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### 16.30 (Graduate)
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 25% |
-| Midterms | 10% each |
-| Labs | 20% |
-| Project | 10% |
-| Final | 25%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterms
+{{< tdclose >}}
+{{< tdopen >}}
+10% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Labs
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

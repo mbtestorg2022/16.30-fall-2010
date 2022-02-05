@@ -8,14 +8,69 @@ Selected recitation notes are available below. The remaining sessions generally 
 
 All notes other than Recitation 11 are courtesy of Brandon Luders, and are used with permission.
 
-| RECITATIONS |
-| --- |
-| Recitation 1 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec01)) |
-| Recitation 2 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec02)) |
-| Recitation 3 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec03)) |
-| Recitation 7 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec07)) |
-| Recitation 8 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec08)) |
-| Recitation 10 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec10)) |
-| Recitation 11 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec11)) |
-| Recitation 12 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec12)) |
-| Recitation 13 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec13))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+RECITATIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation 1 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation 2 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation 3 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec03))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation 7 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation 8 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec08))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation 10 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation 11 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation 12 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation 13 ([PDF]({{< baseurl >}}/resources/mit16_30f10_rec13))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
